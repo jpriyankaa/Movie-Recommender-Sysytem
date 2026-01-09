@@ -1,5 +1,8 @@
 # **Content-Based Movie Recommender System**
 
+![Uploading image.png…]()
+
+
 ## **Objective Statement**
 
 The objective of the Content-Based Movie Recommender System project is to develop an intelligent system that utilizes movie attributes such as genre, cast, director, and plot to provide personalized movie recommendations to users. By analyzing these intrinsic characteristics, the system enhances user experience by offering relevant and engaging movie suggestions, aiding in the discovery of new films that align with individual preferences.
