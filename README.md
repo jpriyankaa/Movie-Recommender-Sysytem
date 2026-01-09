@@ -1,7 +1,6 @@
 # **Content-Based Movie Recommender System**
 
-![Uploading image.png…]()
-
+<img width="1454" height="650" alt="image" src="https://github.com/user-attachments/assets/ea90ffc7-7b31-4457-b4b6-01707eec8506" />
 
 ## **Objective Statement**
 
